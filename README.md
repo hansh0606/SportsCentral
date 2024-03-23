@@ -27,6 +27,8 @@ Sports Centre is a Java application built using Spring Boot framework for managi
 4. Build the project: mvn clean install
 5. Run the application: mvn spring-boot:run
 6. Access the application in your web browser at http://localhost:8080
+7. cd into react-frontend
+8. run npm start and find your frontend at http://localhost:3000
 
 ## Contributing
 
